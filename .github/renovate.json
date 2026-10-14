@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "config:recommended"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
+  "schedule": [
+    "* * * * 0"
+  ],
+  "timezone": "Etc/UTC",
+  "automerge": true,
+  "ignoreTests": true
+}
