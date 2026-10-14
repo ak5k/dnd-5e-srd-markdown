@@ -2,10 +2,6 @@
   "extends": [
     "config:recommended"
   ],
-  "schedule": [
-    "* * * * 0"
-  ],
-  "timezone": "Etc/UTC",
   "automerge": true,
   "ignoreTests": true
 }
