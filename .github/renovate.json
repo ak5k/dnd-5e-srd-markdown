@@ -2,9 +2,6 @@
   "extends": [
     "config:recommended"
   ],
-  "enabledManagers": [
-    "github-actions"
-  ],
   "schedule": [
     "* * * * 0"
   ],
